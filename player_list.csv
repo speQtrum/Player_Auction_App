@@ -1,0 +1,134 @@
+player,skill,rating,pool,previous_team,old_panther,priority,last_year_price,max_bid,vibe_check,batting_order,bowling_order,wicket_keeper
+ARINDAM SINGHA ROY,BATTER,8,Marque,Pdx Panthers,Yes,Medium,1300,900,High,Top,N/A,Yes
+TIRTHANKAR SAHA,BATTER,8,Marque,Flying Falcons,No,High,900,800,Medium,Middle,N/A,Yes
+SOUVIK DEY,BATTER,10,Marque,The Bosses,Yes,Medium,1000,1800,High,Top/Middle,N/A,Yes
+PAPAI DEY,BATTER,8,Marque,Flying Falcons,No,Medium,600,1400,Medium,Top,N/A,N/A
+SOURAV MITRA,ALL ROUNDER,10,Marque,Flying Falcons,No,Low,4700,3000,Medium,Middle,Yes,N/A
+SUMAN CHANDA,ALL ROUNDER,7,Marque,The Bosses,No,Medium,1500,1800,Medium,Middle,Yes,N/A
+DIBYENDU ADHIKARY,ALL ROUNDER,9,Marque,The Bosses,No,Medium,1500,1300,High,Middle,Yes,N/A
+SANKAR BISWAS,BATTER,10,Marque,Flying Falcons,No,High,300,1200,High,Middle,N/A,N/A
+KHOKAN DAS,ALL ROUNDER,6,Marque,Stellar Envoy,Yes,Medium,3900,2000,Medium,Middle,Yes,N/A
+DIBYENDU BOSU,BATTER,9,Marque,Pdx Panthers,Yes,Medium,1200,1300,Medium,Top/Middle,N/A,Yes
+AMIT MAJUMDER,ALL ROUNDER,7,Marque,Blackstone,No,Medium,2400,1200,Medium,Middle,Yes,N/A
+BILAS DAS,BATTER,8,Marque,The Bosses,No,Medium,700,500,High,Middle,N/A,N/A
+KAMOLESH MONDAL,BATTER,8,Marque,Flying Falcons,Yes,High,350,700,High,Top/Middle,N/A,Yes
+SANDIP BOSE,BOWLER,10,Marque,Super Hornets,No,Low,0,0,Low,Middle,Yes,N/A
+ANIRBAN SARKAR,ALL ROUNDER,10,Marque,Stellar Envoy,No,Low,0,0,Low,Middle,Yes,N/A
+AMIK BASU,BATTER,10,Marque,Stellar Envoy,No,Low,0,0,Low,Top,N/A,N/A
+SOURAV BISWAS,ALL ROUNDER,10,Marque,Flying Falcons,No,Low,0,0,Low,Top/Middle,Yes,N/A
+PRASANTA GHOSH,BATTER,6,Marque,Blackstone,No,Low,700,400,Low,Top,N/A,N/A
+JAYANTA BARMAN,BATTER,10,Marque,The Bosses,Yes,Low,0,0,Low,Middle,N/A,N/A
+TANMOY CHANDA,BATTER,10,Marque,Pdx Panthers,Yes,High,1900,0,High,Top,N/A,N/A
+DEV SARKAR,BATTER,10,Marque,Pdx Panthers,Yes,High,900,0,High,Middle,N/A,N/A
+UTPAL BISWAS,BOWLER,9,Marque,Pdx Panthers,Yes,High,450,1200,High,N/A,Yes,N/A
+SAMIR MONDAL,BATTER,7,Marque,Stellar Envoy,No,Low,250,400,Medium,Top,N/A,Yes
+ABIR BACHAR,BOWLER,9,Marque,Pdx Panthers,Yes,High,800,1500,High,Middle,Yes,N/A
+SUBHANKAR ADHIKARY,ALL ROUNDER,9,Marque,Flying Falcons,Yes,High,600,1000,Medium,Middle,Yes,N/A
+SUDIP KABIRAJ,BATTER,7,Marque,The Bosses,No,Low,200,500,Medium,Top,N/A,N/A
+RUPAM MAJUMDER,BATTER,7,Marque,Flying Falcons,No,Low,450,500,Low,Middle,N/A,N/A
+SWARNENDU KARMAKAR,BATTER,8,Marque,Super Hornets,No,Low,700,700,Medium,Middle,N/A,N/A
+SUVOJIT SUTRADHAR,BATTER,8,Marque,Blackstone,Yes,Medium,1000,800,High,Middle,N/A,N/A
+SITANATH KUNDU,BOWLER,9,Marque,Flying Falcons,Yes,High,700,1000,Medium,Middle,Yes,N/A
+SOUVIK DAS,ALL ROUNDER,10,Marque,Blackstone,Yes,High,3600,0,High,Top,Yes,N/A
+SUBHAM ROY,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+SAMIK ROY(BANTI),BATTER,,Amateur,N/A,No,,N/A,,,Middle,Yes,N/A
+PROSANTA DAS (HABA),BATTER,,Amateur,Blackstone,No,,100,,,Middle,N/A,N/A
+RAKINDRANATH BISWAS,BATTER,,Amateur,Stellar Envoy,No,,100,,,Middle,N/A,N/A
+SANTANU TARAFDAR,BATTER,,Amateur,Stellar Envoy,No,,100,,,Middle,N/A,N/A
+ANIKET BISWAS,BATTER,6,Amateur,Blackstone,Yes,High,100,100,High,Middle,N/A,N/A
+MIHIR GHOSH,BOWLER,,Amateur,N/A,No,,N/A,,,N/A,Yes,N/A
+BABU SARKAR,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+JHANTU SARKAR,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+DIPJOTYI SANYAL,BATTER,6,Amateur,N/A,Yes,High,N/A,400,Low,Middle,N/A,N/A
+ABILASH ROY,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+ASHUTOSH BISWAS,BATTER,6,Amateur,Pdx Panthers,Yes,High,100,200,High,Middle,N/A,N/A
+BIBHAS ROY,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+HRISHAV GAINE,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+BISHAL DEY,BOWLER,6,Amateur,N/A,No,High,N/A,200,High,N/A,Yes,N/A
+ASIT BISWAS,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+RAJU SARKAR,BATTER,,Amateur,Stellar Envoy,Yes,,100,,,Middle,N/A,N/A
+SAYAN SAMADDER,BOWLER,,Amateur,N/A,No,,N/A,,,N/A,Yes,N/A
+PRASANTA MONDAL,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+BIBHASH CHOWDHURY,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+SRIPANTH SARKAR,BATTER,,Amateur,N/A,Yes,,N/A,,,Top/Middle,N/A,N/A
+AYAN PAUL,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+RAHIM MONDAL,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+DIPANKAR SINGHA,BOWLER,6,Amateur,Flying Falcons,No,Medium,100,100,High,N/A,Yes,N/A
+SANDIP BISWAS,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+ABHRADEEP BHOWMICK,BOWLER,6,Amateur,N/A,No,Medium,N/A,100,High,N/A,Yes,N/A
+SAJIB KUMAR SAHA,BOWLER,,Amateur,N/A,No,,N/A,,,N/A,Yes,N/A
+AVRO SARKAR,BATTER,6,Amateur,N/A,Yes,Medium,N/A,100,High,Middle,N/A,N/A
+SOUVIK BISWAS,BATTER,,Amateur,N/A,Yes,,N/A,,,Middle,N/A,N/A
+LIMAN BISWAS,BOWLER,,Amateur,Stellar Envoy,No,,100,,,N/A,Yes,N/A
+PARIMAL BISWAS,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+KOUSHIK CHATTERJEE,BATTER,,Amateur,N/A,Yes,,N/A,,,Middle,N/A,N/A
+RUDRA DAS,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+SANKAR BARMAN,BOWLER,,Amateur,Blackstone,No,,100,,,N/A,Yes,N/A
+SWAPAN BISWAS,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+MONAJIT BISWAS,BOWLER,,Amateur,N/A,No,,N/A,,,N/A,Yes,N/A
+ANINDYA BISWAS,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+JAYANTA MAJUMDER,BOWLER,,Amateur,N/A,No,,N/A,,,N/A,Yes,N/A
+RAHUL SAHA,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+SHUBHODEEP DAS,BOWLER,6,Amateur,N/A,No,High,N/A,200,Low,N/A,Yes,N/A
+PIJUS DAS,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+SANTANU BISWAS,BATTER,,Amateur,The Bosses,No,,100,,,Middle,N/A,N/A
+RONY GHOSH,BATTER,6,Amateur,Stellar Envoy,Yes,Low,200,100,High,Middle,N/A,N/A
+SOUVIK GHOSH,BOWLER,6,Amateur,N/A,No,Low,N/A,100,High,N/A,Yes,N/A
+BISWAJIT DEBNATH,BOWLER,6,Amateur,Flying Falcons,No,Low,100,100,High,N/A,Yes,N/A
+SRIDAM PATRA,BOWLER,,Amateur,N/A,No,,N/A,,,N/A,Yes,N/A
+BABAN BISWAS,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+DEBABRATA HALDER,BOWLER,6,Amateur,N/A,No,High,N/A,100,High,N/A,Yes,N/A
+RAHUL GHOSH,BATTER,,Amateur,Stellar Envoy,Yes,,150,,,Middle,N/A,N/A
+BASUDEB NAG,BATTER,,Amateur,N/A,Yes,,N/A,,,Middle,N/A,N/A
+SANJIB CHAKRABORTY,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+SOURAV SOME,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+AMIT KUMAR DUTTA,ALL ROUNDER,,Amateur,N/A,No,,N/A,,,Middle,Yes,N/A
+SUKANTA BAGCHI,ALL ROUNDER,,Amateur,N/A,No,,N/A,,,Middle,Yes,N/A
+DEBASISH MODAK,BOWLER,,Amateur,N/A,No,,N/A,,,N/A,Yes,N/A
+PARTHA DEBNATH,BOWLER,10,Amateur,Pdx Panthers,Yes,High,100,400,High,N/A,Yes,N/A
+AMIT KUMAR KAR,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+TAPAS MONDAL,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+DEBASHIS GHOSH,BATTER,,Amateur,Super Hornets,No,,100,,,Middle,N/A,N/A
+GOURAV BOSE,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+TITON DAS,BOWLER,,Amateur,N/A,No,,N/A,,,N/A,Yes,N/A
+TANMOY BHATTACHARJEE,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+DEBOJYOTI BISWAS,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+TOKAN BISWAS,BATTER,,Amateur,N/A,No,,N/A,,,Middle,N/A,N/A
+RAJJAK MONDAL,ALL ROUNDER,8,Premium,Super Hornets,No,Medium,450,800,Medium,Middle,Yes,N/A
+SAGAR BHATTACHARYA,BATTER,7,Premium,Super Hornets,No,Low,450,400,Medium,Middle,N/A,N/A
+SIBOTOSH BARUI,ALL ROUNDER,10,Premium,Flying Falcons,No,Low,0,0,Low,Top/Middle,Yes,N/A
+SUBHA BISWAS,BOWLER,8,Premium,The Bosses,No,Medium,200,300,Medium,Middle,Yes,N/A
+ATANU DUTTA,BATTER,9,Premium,The Bosses,No,High,1200,1000,High,Middle,N/A,N/A
+BACCHU BISWAS,BOWLER,8,Premium,N/A,No,Medium,N/A,300,High,N/A,Yes,N/A
+JOYDIP BHATTACHARYA,BOWLER,8,Premium,Super Hornets,No,Medium,1300,1400,High,N/A,Yes,N/A
+ROHAN PAUL,BATTER,,Premium,Super Hornets,No,,200,,,Middle,N/A,N/A
+PRITAM DEB,ALL ROUNDER,,Premium,Flying Falcons,No,,400,,,Middle,Yes,N/A
+SUBIR BISWAS,BOWLER,9,Premium,N/A,No,High,N/A,400,High,N/A,Yes,N/A
+MRINMOY SARKAR,BATTER,7,Premium,The Bosses,Yes,High,250,500,Medium,Top/Middle,N/A,N/A
+AMITAVA PRAMANIK,BATTER,7,Premium,Stellar Envoy,No,Low,500,200,High,Middle,N/A,N/A
+PROSENJIT HALDER,BATTER,7,Premium,Stellar Envoy,No,Medium,500,400,High,Top,N/A,N/A
+SHILADITYA GANGOPADHYAY,BATTER,,Premium,Super Hornets,No,,350,,,Top/Middle,N/A,N/A
+TUHIN KUMAR BHOWMICK,BATTER,,Premium,N/A,Yes,,N/A,,,Middle,Yes,Yes
+SUDIP GHOSH,BOWLER,10,Premium,Super Hornets,No,Low,0,0,Low,N/A,Yes,N/A
+SUMIT DEY,ALL ROUNDER,7,Premium,N/A,Yes,Medium,N/A,400,High,Middle,Yes,N/A
+SUMAN ROY,BATTER,,Premium,Super Hornets,Yes,,200,,,Middle,N/A,N/A
+RIJU MUKHERJEE,ALL ROUNDER,10,Premium,Blackstone,No,Low,450,0,High,Middle,Yes,N/A
+ANANDA PAUL,BOWLER,,Premium,Stellar Envoy,No,,100,,,N/A,Yes,N/A
+TANMOY BARUI,ALL ROUNDER,8,Premium,N/A,No,Medium,N/A,700,High,Middle,Yes,N/A
+PRITAM CHAKRABORTY,BATTER,7,Premium,Blackstone,Yes,Medium,150,400,Low,Middle,N/A,N/A
+SUKAMAL SIKDAR,BOWLER,8,Premium,The Bosses,No,Low,0,0,Low,N/A,Yes,N/A
+JEWEL SARKAR,BOWLER,7,Premium,N/A,Yes,Medium,N/A,100,Low,N/A,Yes,N/A
+SAYANTAN PAUL,BOWLER,9,Premium,Pdx Panthers,Yes,High,100,500,Medium,N/A,Yes,N/A
+SWARUP BISWAS,BOWLER,8,Premium,Flying Falcons,Yes,High,300,200,Medium,N/A,Yes,N/A
+PARTHA SARKAR,BOWLER,7,Premium,Blackstone,No,Medium,100,100,Medium,N/A,Yes,N/A
+RASHMOHAN BISWAS,BATTER,8,Premium,Blackstone,No,High,100,300,High,Middle,N/A,N/A
+ARUP DAS,ALL ROUNDER,8,Premium,Stellar Envoy,No,Medium,600,400,Low,Middle,Yes,N/A
+PRALAY CHAKRABORTY,BATTER,6,Premium,Pdx Panthers,Yes,High,350,300,High,Middle,Yes,Yes
+BISWANATH DUTTA,BATTER,8,Premium,Super Hornets,No,Medium,250,300,High,Middle,Yes,Yes
+SUSHANTA SARKAR,BATTER,,Premium,N/A,Yes,,N/A,,,Middle,N/A,N/A
+AVIJIT BISWAS,BATTER,7,Premium,N/A,Yes,Low,N/A,100,High,Middle,N/A,Yes
+DEVJAY BHAKTA,BOWLER,7,Premium,Super Hornets,Yes,Medium,100,100,Low,N/A,Yes,N/A
+AVIJIT GHOSH,ALL ROUNDER,7,Premium,Flying Falcons,No,Medium,100,300,Low,Middle,Yes,N/A
+BINOY BISWAS,ALL ROUNDER,8,Premium,N/A,No,Medium,N/A,600,Medium,Middle,Yes,N/A
+BISWAJIT BAIRAGI,BOWLER,7,Amateur,N/A,No,Medium,N/A,400,Medium,N/A,Yes,N/A
+SOURAV BISWAS(PICKLU),BOWLER,7,Amateur,N/A,No,Medium,N/A,100,High,N/A,Yes,N/A
